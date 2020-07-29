@@ -1,0 +1,4 @@
+local get=require
+local a=get('')
+
+return nil
